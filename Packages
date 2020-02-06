@@ -1,0 +1,14 @@
+Package: com.fleury.purewhiteglyph
+Name: Pure White Glyph
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A theme with beautiful icons!
+Author: fleury
+Maintainer: fleury
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: debs\PureWhiteGlyph.deb"
+Size: 2846
+MD5sum: 6b00dcfd1982f54b3516a49fe90c0613
+SHA1: 7e2ec57e9bd44e468631dc73f8396f8ad13dc401
+SHA256: 874bfdbecefbeb8d6571a1c281e40e985742019ae0cd4990a43d515a99fcba1f
