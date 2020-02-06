@@ -6,8 +6,8 @@ Description: A theme with beautiful icons!
 Author: fleury
 Maintainer: fleury
 Section: Themes
-Depends: com.anemonetheming.anemone | com.spark.snowboard
-Filename: debs\PureWhiteGlyph.deb"
+Depends: com.anemonetheming.anemone, com.spark.snowboard
+Filename: debs/PureWhiteGlyph.deb
 Size: 2846
 MD5sum: 6b00dcfd1982f54b3516a49fe90c0613
 SHA1: 7e2ec57e9bd44e468631dc73f8396f8ad13dc401
